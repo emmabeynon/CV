@@ -41,19 +41,22 @@ In each of my roles it has been a necessity to pay a lot of attention to detail.
 
 | Project | Description | Technologies | Testing |
 |---|------------|---|---|---|
-| [Senes](https://github.com/emmabeynon/senes) | This is an elderly healthcare app, pulling in and manipulating data from the Fitbit API to keep users up to date with how their elderly relatives are doing health-wise | Ionic, AngularJS, Rails, HTML, CSS, Sass | RSpec, Karma, Protractor |
-| [Instagram Clone](https://github.com/emmabeynon/instagram-challenge) | I created my own version of Instagram, where you can post pictures, add comments and 'like' pictures. See the deployed version [here](https://fierce-spire-98420.herokuapp.com/) | Ruby, Rails, ActiveRecord, Bootstrap, Paperclip | RSpec, Capybara, FactoryGirl, Shoulda |
+| [Senes](https://github.com/emmabeynon/senes) | This is an elderly healthcare app, pulling in and manipulating data from the Fitbit API to keep users up to date with how their elderly relatives are doing health-wise. | Ionic, AngularJS, Rails, HTML, CSS, Sass | RSpec, Karma, Protractor |
+| [Instagram Clone](https://github.com/emmabeynon/instagram-challenge) | I created my own version of Instagram, where you can post pictures, add comments and 'like' pictures. See the deployed version [here](https://fierce-spire-98420.herokuapp.com/). | Ruby, Rails, ActiveRecord, Bootstrap, Paperclip | RSpec, Capybara, FactoryGirl, Shoulda |
+| [Bowling Score Calculator](https://github.com/emmabeynon/bowling-challenge) | I developed a system to enter and calculate bowling scores for 10 frames including assigning bonuses where appropriate and dealing with the unusual 10th frame | Javascript | Jasmine |
 
 
 ## Education
 
 #### Makers Academy (London, UK), November 2015 to February 2016
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, BDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Makers Academy is a highly-selective, intensive 12-week coding bootcamp
+- Pair programmed every day to solve problems as a team and reinforce my own learning
+- Completed several projects at home on the weekends, demonstrating my ability to work and solve problems independently
+- Experience with agile principles gained from running twice-daily standups
+- TDD skills developed from day 1 using testing frameworks such as RSpec, Capybara, Jasmine and Karma
+- Focus on producing good quality code by following OOD and SOLID principles
+- Core languages taught: Ruby, Rails, Javascript, Angular.js
+- Self-taught technologies: Node.js, Ionic framework, HTML, CSS
 
 #### Aston University (Birmingham, UK), September 2005 to June 2009
 - BSc (Hons) International Business & Modern Languages (French)
