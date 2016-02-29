@@ -40,7 +40,7 @@ In each of my roles it has been a necessity to pay a lot of attention to detail.
 ## Projects
 
 | Project | Description | Technologies | Testing | Github |
-|---|---|---|---|---|
+|---|------------|---|---|---|
 | Senes | This is an elderly healthcare app, pulling in and manipulating data from the Fitbit API to keep users up to date with how their elderly relatives are doing health-wise | Ionic, AngularJS, Rails, HTML, CSS, Sass | RSpec, Karma, Protractor |  https://github.com/emmabeynon/senes |
 | Instagram Clone | I created my own version of Instagram, where you can post pictures, add comments and 'like' pictures | Ruby, Rails, ActiveRecord, Bootstrap, Paperclip | RSpec, Capybara, FactoryGirl, Shoulda | https://github.com/emmabeynon/instagram-challenge
 https://fierce-spire-98420.herokuapp.com/ |
