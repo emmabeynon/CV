@@ -42,7 +42,8 @@ In each of my roles it has been a necessity to pay a lot of attention to detail.
 | Project | Description | Technologies | Testing | Github |
 |---|---|---|---|---|
 | Senes | This is an elderly healthcare app, pulling in and manipulating data from the Fitbit API to keep users up to date with how their elderly relatives are doing health-wise | Ionic, AngularJS, Rails, HTML, CSS, Sass | RSpec, Karma, Protractor |  https://github.com/emmabeynon/senes |
-| Instagram Clone | I created my own version of Instagram, where you can post pictures, add comments and 'like' pictures | Ruby, Rails, ActiveRecord, Bootstrap, Paperclip | RSpec, Capybara, FactoryGirl, Shoulda | https://github.com/emmabeynon/instagram-challenge |
+| Instagram Clone | I created my own version of Instagram, where you can post pictures, add comments and 'like' pictures | Ruby, Rails, ActiveRecord, Bootstrap, Paperclip | RSpec, Capybara, FactoryGirl, Shoulda | https://github.com/emmabeynon/instagram-challenge
+https://fierce-spire-98420.herokuapp.com/ |
 |   |   |   |   |   |
 
 
@@ -51,7 +52,7 @@ In each of my roles it has been a necessity to pay a lot of attention to detail.
 #### Makers Academy (London, UK), November 2015 to February 2016
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
+- OOP, TDD, SOLID, MVC, BDD
 - Software Craftsmanship
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
@@ -69,16 +70,16 @@ In each of my roles it has been a necessity to pay a lot of attention to detail.
 
 ## Experience
 
-**Rentify** (London, UK),  January 2015 to November 2015
+**Rentify** (London, UK), January 2015 to November 2015
 *Performance Marketing Manager*
 
-**Moo.com** (London, UK),  March 2013 to January 2015
+**Moo.com** (London, UK), March 2013 to January 2015
 *Paid Search Marketing Manager*
 
-**iCrossing** (London, UK),  May 2010 to February 2013
+**iCrossing** (London, UK), May 2010 to February 2013
 *Paid Search Strategist*
 
-**i-level** (London, UK),  July 2009 to May 2010
+**i-level** (London, UK), July 2009 to May 2010
 *Search Planner*
 
 **Morgan Stanley** (Paris, France), July 2007 to August 2008
