@@ -1,21 +1,21 @@
 ## Emma Beynon
-I'm an enthusiastic junior developer with a passion for empowering women in tech and building exciting projects with code.  After deciding to forgo a successful and established career in digital marketing in favour of the great coding unknown, I joined Makers Academy to facilitate a complete career change in to tech.  I am now seeking a challenging and fulfilling junior developer role in a supportive team that is passionate about personal growth and learning.
+I'm an enthusiastic junior developer with a passion for empowering women in tech and building exciting projects with code.  After deciding to forgo a successful and established career in digital marketing in favour of the great coding unknown, I joined Makers Academy to facilitate a complete career change in to tech (I blogged about my experience at https://londoncodelady.wordpress.com/). I am now seeking a challenging and fulfilling junior developer role in a supportive team that is passionate about personal growth and learning.
 
 
 ## Skills
 
 #### Problem-solving
-My previous career involved setting and hitting a lot of targets, particularly for revenue.  As such, it was crucial that I aimed to solve the problem of 'How can we grow our business as much as possible?'.  I tackled this with the following approach:
-- Following best practice to ensure that campaigns are as well-optimised as possible
-- Seeking out new opportunities by keeping up to date with the latest developments in the industry
+My previous career involved setting and hitting targets, particularly for revenue.  As such, it was crucial that I aimed to solve the problem of 'How can we grow our business as much as possible?'.  I tackled this with the following approach:
+- Following Google best practice to ensure that AdWords campaigns are as well-optimised as possible
+- Seeking out new opportunities by keeping up to date with the latest developments in the industry via blogs and events
 - Researching ideas and solutions online with the extensive digital marketing community and trying everything possible to hit targets
 - I delivered year-over-year revenue growth for all of my clients, including 55% YoY growth for Made.com
 
 #### Detail-oriented
-In each of my roles it has been a necessity to pay a lot of attention to detail.  When large budgets, revenue targets and the company's brand are on the line, making costly mistakes is not an option.
+In each of my roles it has been a necessity to pay attention to detail.  When large budgets, revenue targets and the company's brand are on the line, making costly mistakes is not an option.
 - Campaign ads were rigorously checked for spelling, grammatical and product information errors before publishing
-- Built out campaigns in a well-structured and sustainable way to avoid having to fix rushed architectural decisions in the future
-- Conducted ad and landing page A/B testing in a methodical manner to improve results and better understand what works
+- Built out campaigns in a well-structured and sustainable way to avoid having to fix rushed architectural mistakes in the future
+- Conducted landing page A/B testing in a methodical manner using tools such as Optimizely.  I managed to achieve conversion rate uplifts of up to 30% at Moo.com.  
 
 #### Communication
 - Communicated performance and strategy to senior stakeholders at Moo.com and Rentify in a clear, minimally technical manner
@@ -91,4 +91,3 @@ In each of my roles it has been a necessity to pay a lot of attention to detail.
 
 - I am a big live music fan, and love going to gigs and festivals
 - I am a Francophile having studied French for many years and lived in Paris for 14 months
-- I have blogged about my Makers Academy experience at https://londoncodelady.wordpress.com/
