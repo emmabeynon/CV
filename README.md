@@ -1,6 +1,14 @@
 ## Emma Beynon
-I'm an enthusiastic junior developer with a passion for empowering women in tech and building exciting projects with code.  After deciding to forgo a successful and established career in digital marketing in favour of the great coding unknown, I joined Makers Academy to facilitate a complete career change in to tech (I blogged about my experience at https://londoncodelady.wordpress.com/). I am now seeking a challenging and fulfilling junior developer role in a supportive team that is passionate about personal growth and learning.
+I'm an enthusiastic junior developer with a passion for empowering women in tech and building exciting projects with code.  I decided to forgo a successful and established career in digital marketing in favour of the great coding unknown and joined Makers Academy to facilitate a complete career change in to tech (I blogged about my experience at https://londoncodelady.wordpress.com/). I am now seeking a challenging and fulfilling junior developer role in a supportive team that is passionate about personal growth and learning.
 
+
+## Coding Projects
+
+| Project | Description | Technologies | Testing |
+|---|------------|---|---|---|
+| [Senes](https://github.com/emmabeynon/senes) | This is an elderly healthcare app, pulling in and manipulating data from the Fitbit API to keep users up to date with how their elderly relatives are doing health-wise. | Ionic, AngularJS, Rails, HTML, CSS, Sass | RSpec, Karma, Protractor |
+| [Instagram Clone](https://github.com/emmabeynon/instagram-challenge) | I created my own version of Instagram, where you can post pictures, add comments and 'like' pictures. See the deployed version [here](https://fierce-spire-98420.herokuapp.com/). | Ruby, Rails, ActiveRecord, Bootstrap, Paperclip | RSpec, Capybara, FactoryGirl, Shoulda |
+| [Bowling Score Calculator](https://github.com/emmabeynon/bowling-challenge) | I developed a system to enter and calculate bowling scores for 10 frames including assigning bonuses where appropriate and dealing with the unusual 10th frame | Javascript | Jasmine |
 
 ## Skills
 
@@ -35,15 +43,6 @@ In each of my roles it has been a necessity to pay attention to detail.  When la
 - Managed a team of four Paid Search Analysts at iCrossing, including producing personal development plans and managing resource
 - Led paid search strategy for key clients at iCrossing
 - In my client-side roles at Moo.com and Rentify I was the internal point of contact for paid media and was responsible for the most significant part of the UK team's marketing budget (c. £150k per month)
-
-
-## Projects
-
-| Project | Description | Technologies | Testing |
-|---|------------|---|---|---|
-| [Senes](https://github.com/emmabeynon/senes) | This is an elderly healthcare app, pulling in and manipulating data from the Fitbit API to keep users up to date with how their elderly relatives are doing health-wise. | Ionic, AngularJS, Rails, HTML, CSS, Sass | RSpec, Karma, Protractor |
-| [Instagram Clone](https://github.com/emmabeynon/instagram-challenge) | I created my own version of Instagram, where you can post pictures, add comments and 'like' pictures. See the deployed version [here](https://fierce-spire-98420.herokuapp.com/). | Ruby, Rails, ActiveRecord, Bootstrap, Paperclip | RSpec, Capybara, FactoryGirl, Shoulda |
-| [Bowling Score Calculator](https://github.com/emmabeynon/bowling-challenge) | I developed a system to enter and calculate bowling scores for 10 frames including assigning bonuses where appropriate and dealing with the unusual 10th frame | Javascript | Jasmine |
 
 
 ## Education
