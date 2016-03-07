@@ -7,7 +7,7 @@ I'm an enthusiastic junior developer with a passion for empowering women in tech
 | Project | Description | Technologies | Testing |
 |---|------------|---|---|---|
 | [Senes](https://github.com/emmabeynon/senes) | This is an elderly healthcare app, pulling in and manipulating data from the Fitbit API to keep users up to date with how their elderly relatives are doing health-wise. | Ionic, AngularJS, Rails, HTML, CSS, Sass | RSpec, Karma, Protractor |
-| [Twitter Local Guide](https://github.com/emmabeynon/twitter_local_guide) | This app organises tweets from my local area by category so that I can easily find relevant information. See the deployed version [here] (http://se23-local-guide.herokuapp.com/) | Ruby, Rails, PostgreSQL, Bootstrap, RSpec, Capybara, Twitter API |
+| [Twitter Local Guide](https://github.com/emmabeynon/twitter_local_guide) | This app organises tweets from my local area by category so that I can easily find relevant information. See the deployed version [here] (http://se23-local-guide.herokuapp.com/) | Ruby, Rails, PostgreSQL, Bootstrap, Twitter API | RSpec, Capybara |
 | [Instagram Clone](https://github.com/emmabeynon/instagram-challenge) | I created my own version of Instagram, where you can post pictures, add comments and 'like' pictures. See the deployed version [here](https://fierce-spire-98420.herokuapp.com/). | Ruby, Rails, PostgreSQL, Bootstrap, Paperclip | RSpec, Capybara, FactoryGirl, Shoulda |
 | [Bowling Score Calculator](https://github.com/emmabeynon/bowling-challenge) | I developed a system to enter and calculate bowling scores for 10 frames including assigning bonuses where appropriate and dealing with the particularities of the 10th frame | Javascript | Jasmine |
 
