@@ -1,5 +1,5 @@
 ## Emma Beynon
-I'm an enthusiastic junior developer with a passion for empowering women in tech and building exciting projects with code.  I left a successful and established career in digital marketing to pursue a complete career change in to tech and joined Makers Academy to hone my software development skills (I blogged about my experience at [https://londoncodelady.wordpress.com]https://londoncodelady.wordpress.com). I am now seeking a challenging and fulfilling junior developer role in a supportive team that is passionate about personal growth and learning.
+I'm an enthusiastic junior developer with a passion for empowering women in tech and building exciting projects with code.  I left a successful and established career in digital marketing to pursue a complete career change in to tech and joined Makers Academy to hone my software development skills (I blogged about my experience at https://londoncodelady.wordpress.com). I am now seeking a challenging and fulfilling junior developer role in a supportive team that is passionate about personal growth and learning.
 
 
 ### Coding Projects
